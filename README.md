@@ -1,4 +1,4 @@
-# Computing and GCD
+# Computing in Graphic design
 
 ## PREFACE
 I had a general awareness of the impact of computer technology on design before to starting this course. This is in contrast to our regular use of Photoshop and other design applications, which is a more basic. However, I was unaware of this at the time. I interpreted it as an extremely difficult task, thus I was unable to begin. Fortunately, as a result of this week's study, I learned more about computer innovation and coding than I had previously, but I was also able to swiftly use this to improve my prior work. This has made me realise how important these technologies are to contemporary design.
